@@ -2,12 +2,13 @@
   {
     "numero": 2,
     "nombre": "Megavisión",
-    "url": "https://68aff552e1684.streamlock.net/megavision/MV/playlist.m3u8"
+    "url": "https://68aff552e1684.streamlock.net/megavision/MV/playlist.m3u8",
+    "vencimiento": "2026-12-31"
   },
   {
     "numero": 5,
     "nombre": "Telemicro Canal 5",
-    "telemicro_web": "https://telemicro.com.do/telemicro-en-vivo/"
+    "url": "http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8"
   },
   {
     "numero": 1,
