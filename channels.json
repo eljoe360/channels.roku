@@ -1,3 +1,4 @@
+```json
 [
   {
     "numero": 1,
@@ -18,5 +19,11 @@
     "numero": 6,
     "nombre": "Canal 6",
     "url": "https://oku-backend-rd.onrender.com/api/canal6"
+  },
+  {
+    "numero": 7,
+    "nombre": "Canal 7",
+    "url": "https://oku-backend-rd.onrender.com/api/canal7"
   }
 ]
+```
