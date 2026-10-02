@@ -6,6 +6,13 @@
     "vencimiento": "2026-12-31"
   },
   {
+    "numero": 9,
+    "nombre": "Color Visión Canal 9",
+    "dailymotion_id": "x7gy059"
+  }
+
+  },
+  {
     "numero": 4,
     "nombre": "Canal 4 RD",
     "url": "https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8"
