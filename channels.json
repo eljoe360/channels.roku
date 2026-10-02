@@ -12,9 +12,9 @@
     "telemicro_web": "https://televisiondominicanaenvivo.com/telemicro-canal-5/"
   },
   {
-    "numero": 9,
+    "numero": 1,
     "nombre": "Color Visión Canal 9",
-    "dailymotion_id": "x7gy059"
+    "dailymotion_id": "http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8"
   },
   {
     "numero": 4,
