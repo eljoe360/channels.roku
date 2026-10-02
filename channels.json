@@ -9,23 +9,10 @@
     "numero": 9,
     "nombre": "Color Visión Canal 9",
     "dailymotion_id": "x7gy059"
-  }
-
   },
   {
     "numero": 4,
     "nombre": "Canal 4 RD",
     "url": "https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8"
-  },
-  {
-    "numero": 6,
-    "nombre": "Canal 6",
-    "url": "https://stream.elseis.do/canal6/master.m3u8"
-  },
-  {
-    "numero": 9,
-    "nombre": "Color vision",
-    "url": "https://cdn0.360playvid.com/CHVIDIDmup48ezv53qz4dfuzd/hls/mid.m3u8",
-    "vencimiento": "2026-12-31"
   }
 ]
