@@ -17,6 +17,6 @@
   {
     "numero": 6,
     "nombre": "Canal 6",
-    "url": "https://stream.elseis.do/canal6/master.m3u8"
+    "url": "https://oku-backend-rd.onrender.com/api/canal6"
   }
 ]
