@@ -41,11 +41,17 @@
     "nombre": "Color Visión Canal 9",
     "canal9_web": true
   },
-  {
+ {
     "numero": 11,
     "id": "canal11",
-    "nombre": "Telesistema Canal 11",
+    "nombre": "Telesistema 11 (TV)",
     "canal11_web": true
+  },
+  {
+    "numero": "11.1",
+    "id": "canal11_web",
+    "nombre": "Telesistema 11.1 (Web)",
+    "canal11_dm_web": true
   },
   {
     "numero": 13,
