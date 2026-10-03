@@ -59,10 +59,10 @@
     "nombre": "Canal 12",
     "canal12_web": true
   },
-  {
-    "numero": 13,
-    "id": "canal13",
-    "nombre": "Telecentro Canal 13",
-    "canal13_web": true
-  }
+ {
+  "numero": 13,
+  "id": "canal13",
+  "nombre": "Telecentro Canal 13",
+  "canal13_web": true
+}
 ]
