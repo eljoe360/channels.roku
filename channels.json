@@ -70,5 +70,11 @@
     "id": "canal15",
     "nombre": "Digital 15",
     "canal15_web": true
+  },
+  {
+    "numero": 18,
+    "id": "canal18",
+    "nombre": "AME 47 Canal 18",
+    "canal18_web": true
   }
 ]
