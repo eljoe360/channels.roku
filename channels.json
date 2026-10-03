@@ -41,6 +41,12 @@
     "nombre": "Color Visión Canal 9",
     "canal9_web": true
   },
+  {
+    "numero": 10,
+    "id": "canal10",
+    "nombre": "Canal 10",
+    "canal10_web": true
+  },
  {
     "numero": 11,
     "id": "canal11",
