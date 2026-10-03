@@ -64,5 +64,11 @@
   "id": "canal13",
   "nombre": "Telecentro Canal 13",
   "canal13_web": true
-}
+},
+{
+    "numero": 15,
+    "id": "canal15",
+    "nombre": "Digital 15",
+    "canal15_web": true
+  }
 ]
