@@ -40,5 +40,10 @@
     "id": "canal9",
     "nombre": "Canal 9",
     "canal8_web": true
+  },
+  {
+    "name": "Color Visión Canal 9",
+    "canal9_web": true,
+    "logo": "https://.../canal9.png"
   }
 ]
