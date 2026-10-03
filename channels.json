@@ -53,7 +53,12 @@
     "nombre": "Telesistema 11 (TV)",
     "canal11_web": true
   },
-
+  {
+    "numero": 12,
+    "id": "canal12",
+    "nombre": "Canal 12",
+    "canal12_web": true
+  },
   {
     "numero": 13,
     "id": "canal13",
