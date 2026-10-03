@@ -82,5 +82,11 @@
     "id": "canal19",
     "nombre": "TV HD Live 19",
     "canal19_web": true
+  },
+  {
+    "numero": 21,
+    "id": "canal21",
+    "nombre": "Canal 21",
+    "canal21_web": true
   }
 ]
