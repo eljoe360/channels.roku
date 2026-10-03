@@ -29,21 +29,12 @@
     "nombre": "Canal 7",
     "canal7_web": true
   },
-  {
-    "numero": 8,
-    "id": "canal8",
-    "nombre": "Canal 8",
+ {
+    "title": "Telemedios Canal 8",
     "canal8_web": true
   },
   {
-    "numero": 9,
-    "id": "canal9",
-    "nombre": "Canal 9",
-    "canal8_web": true
-  },
-  {
-    "name": "Color Visión Canal 9",
-    "canal9_web": true,
-    "logo": "https://.../canal9.png"
+    "title": "Color Visión Canal 9",
+    "canal9_web": true
   }
 ]
