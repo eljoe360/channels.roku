@@ -26,15 +26,31 @@
   {
     "numero": 7,
     "id": "canal7",
-    "nombre": "Canal 7",
+    "nombre": "Antena 7",
     "canal7_web": true
   },
- {
-    "title": "Telemedios Canal 8",
+  {
+    "numero": 8,
+    "id": "canal8",
+    "nombre": "Telemedios Canal 8",
     "canal8_web": true
   },
   {
-    "title": "Color Visión Canal 9",
+    "numero": 9,
+    "id": "canal9",
+    "nombre": "Color Visión Canal 9",
     "canal9_web": true
+  },
+  {
+    "numero": 11,
+    "id": "canal11",
+    "nombre": "Telesistema Canal 11",
+    "canal11_web": true
+  },
+  {
+    "numero": 13,
+    "id": "canal13",
+    "nombre": "Telecentro Canal 13",
+    "canal13_web": true
   }
 ]
