@@ -47,12 +47,7 @@
     "nombre": "Telesistema 11 (TV)",
     "canal11_web": true
   },
-  {
-    "numero": "11.1",
-    "id": "canal11_web",
-    "nombre": "Telesistema 11.1 (Web)",
-    "canal11_dm_web": true
-  },
+
   {
     "numero": 13,
     "id": "canal13",
