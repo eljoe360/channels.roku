@@ -294,9 +294,9 @@
     "canal49_web": true
   },
   {
-    "numero": 63,
-    "id": "canal63",
-    "nombre": "Canal 63",
-    "canal49_web": true
-  }
+  "numero": 63,
+  "id": "canal63",
+  "nombre": "Canal 63",
+  "canal63_web": true
+}
 ]
