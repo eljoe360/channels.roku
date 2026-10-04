@@ -292,5 +292,11 @@
     "id": "canal49",
     "nombre": "Canal 49",
     "canal49_web": true
+  },
+  {
+    "numero": 63,
+    "id": "canal63",
+    "nombre": "Canal 63",
+    "canal49_web": true
   }
 ]
