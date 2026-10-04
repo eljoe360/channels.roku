@@ -94,5 +94,11 @@
     "id": "canal23",
     "nombre": "Canal 23",
     "canal23_web": true
+  },
+  {
+    "numero": 27,
+    "id": "canal27",
+    "nombre": "Canal 27",
+    "canal23_web": true
   }
 ]
