@@ -118,5 +118,10 @@
         "nombre": "Canal 63",
         "numero": "63",
         "url": "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8"
+    },
+    {
+        "nombre": "Canal ufc",
+        "numero": "ufc",
+        "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8"
     }
 ]
