@@ -123,5 +123,10 @@
         "nombre": "Canal UFC",
         "numero": "UFC",
         "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8"
+    },
+        {
+        "nombre": "Canal LATINOSTV",
+        "numero": "LATINOSTV",
+        "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w982326125.m3u8"
     }
 ]
