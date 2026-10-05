@@ -28,7 +28,7 @@
   {
     "nombre": "Canal 7",
     "numero": "7",
-    "url": "https://hls.tvabierta.net/hls/007.m3u8"
+    "url": "https://d3gie3ig6argu.cloudfront.net/medialist_15609871089997455276_hls.m3u8"
   },
   {
     "nombre": "Canal 8",
@@ -77,6 +77,11 @@
     "numero": "16",
     "url": "https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8"
   },
+   {
+    "nombre": "Canal 17",
+    "numero": "17",
+    "url": "https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+  },
   {
     "nombre": "Canal 18",
     "numero": "18",
@@ -107,12 +112,17 @@
     "numero": "27",
     "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8"
   },
+   {
+    "nombre": "Canal 28",
+    "numero": "28",
+    "url": "https://soportedvb.click:3017/live/linierostvlive.m3u8"
+  },
   {
     "nombre": "Canal 32",
     "numero": "32",
     "url": "https://edge.livestreaminggroup.info/vtv32live/index.fmp4.m3u8"
   },
-  {
+   {
     "nombre": "Canal 33",
     "numero": "33",
     "url": "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8"
@@ -126,6 +136,11 @@
     "nombre": "Canal 37",
     "numero": "37",
     "url": "https://hls.tvabierta.net/hls/037.m3u8"
+  },
+  {
+    "nombre": "Canal 51",
+    "numero": "51",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
   },
   {
     "nombre": "Canal 63",
