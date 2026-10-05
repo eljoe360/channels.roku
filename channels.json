@@ -17,7 +17,8 @@
   {
     "nombre": "Canal 5",
     "numero": "5",
-    "url": "https://live2.telemicro.com.do/live/55/chunks.m3u8"
+    "url": "https://live2.telemicro.com.do/live/55/chunks.m3u8",
+    "esTelemicro": true
   },
   {
     "nombre": "Canal 6",
@@ -57,7 +58,8 @@
   {
     "nombre": "Canal 13",
     "numero": "13",
-    "url": "https://live2.telemicro.com.do/live/telecentrocast_1080p/chunks.m3u8"
+    "url": "https://live2.telemicro.com.do/live/telecentrocast_1080p/chunks.m3u8",
+    "esTelemicro": true
   },
   {
     "nombre": "Canal 14",
@@ -67,7 +69,8 @@
   {
     "nombre": "Canal 15",
     "numero": "15",
-    "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/chunks.m3u8"
+    "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/chunks.m3u8",
+    "esTelemicro": true
   },
   {
     "nombre": "Canal 16",
