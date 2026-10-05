@@ -37,7 +37,7 @@
     {
         "nombre": "Canal 9",
         "numero": "9",
-        "url": "http://190.122.104.210:5080/LiveApp/streams/telemedios.m3u8"
+        "url": "https://hls.tvabierta.net/hls/009.m3u8"
     },
     {
         "nombre": "Canal 10",
