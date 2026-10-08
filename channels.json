@@ -38,12 +38,12 @@
   {
     "nombre": "Canal 9",
     "numero": "9",
-    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(YR1UWuLm76sxUig-ZjqfrKau84vxHqmH8W7uDc40x-51B1hikGCiHLtQGViWlvs_zbq95XqwadINeyx1cYFskTYl0qDHRl45YRv13rMIkfRmAFwp1MfIaINDP_lSBfJg)/cloud/3/x8mwmvs/s/live-480.m3u8"
+    "url": "https://hls.tvabierta.net/hls/009.m3u8"
   },
   {
     "nombre": "Canal 10",
     "numero": "10",
-    "url": "https://hls.tvabierta.net/hls/010.m3u8"
+    "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(YR1UWuLm76sxUig-ZjqfrKau84vxHqmH8W7uDc40x-51B1hikGCiHLtQGViWlvs_zbq95XqwadINeyx1cYFskTYl0qDHRl45YRv13rMIkfRmAFwp1MfIaINDP_lSBfJg)/cloud/3/x8mwmvs/s/live-480.m3u8"
   },
   {
     "nombre": "Canal 11",
