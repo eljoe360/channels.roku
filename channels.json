@@ -77,7 +77,7 @@
     "numero": "16",
     "url": "https://edge.essastream.com/noticias16/tracks-v1a1/mono.m3u8"
   },
-   {
+  {
     "nombre": "Canal 17",
     "numero": "17",
     "url": "https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
@@ -112,7 +112,7 @@
     "numero": "27",
     "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8"
   },
-   {
+  {
     "nombre": "Canal 28",
     "numero": "28",
     "url": "https://soportedvb.click:3017/live/linierostvlive.m3u8"
@@ -122,7 +122,7 @@
     "numero": "32",
     "url": "https://edge.livestreaminggroup.info/vtv32live/index.fmp4.m3u8"
   },
-   {
+  {
     "nombre": "Canal 33",
     "numero": "33",
     "url": "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8"
@@ -157,7 +157,7 @@
     "numero": "LATINOSTV",
     "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w982326125.m3u8"
   },
-   {
+  {
     "nombre": "TELENORT10",
     "numero": "TELENORT10",
     "url": "https://cdnfox.hostlagarto.com/telenord10/tracks-v1a1/mono.m3u8"
