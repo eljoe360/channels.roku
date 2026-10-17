@@ -7,7 +7,7 @@
   {
     "nombre": "Canal 2",
     "numero": "2",
-    "url": "https://hls.tvabierta.net/hls/002.m3u8"
+    "url": "http://server2grupocam.com:1943/megavision/MV/playlist.m3u8"
   },
   {
     "nombre": "Canal 4",
