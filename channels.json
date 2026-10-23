@@ -69,7 +69,7 @@
   {
     "nombre": "Canal 15",
     "numero": "15",
-    "url": "https://live4.telemicro.com.do/live/digital15cast_1080p/chunks.m3u8",
+    "url": "https://hls.tvabierta.net/hls/015.m3u8",
     "esTelemicro": true
   },
   {
