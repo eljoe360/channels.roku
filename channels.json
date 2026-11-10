@@ -58,7 +58,7 @@
   {
     "nombre": "Canal 13",
     "numero": "13",
-    "url": "https://hls.tvabierta.net/hls/013.m3u8"
+    "url": "https://hls.tvabierta.net/hls/013.m3u8",
     "esTelemicro": true
   },
   {
@@ -69,7 +69,7 @@
   {
     "nombre": "Canal 15",
     "numero": "15",
-    "url": "https://tvabierta.net/digital15"
+    "url": "https://tvabierta.net/digital15",
     "esTelemicro": true
   },
   {
@@ -130,14 +130,14 @@
   {
     "nombre": "Canal 36",
     "numero": "36",
-    "url": "https://hls.tvabierta.net/hls/037.m3u8"
+    "url": "https://hls.tvabierta.net/hls/036.m3u8"
   },
   {
     "nombre": "Canal 37",
     "numero": "37",
     "url": "https://hls.tvabierta.net/hls/037.m3u8"
   },
-   {
+  {
     "nombre": "Canal 39",
     "numero": "39",
     "url": "http://190.122.104.210:5080/LiveApp/streams/coral391.m3u8"
